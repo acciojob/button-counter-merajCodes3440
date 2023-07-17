@@ -9,7 +9,7 @@ const Counter = () => {
   
   return(
     <div>
-    <h1>Button clicked {count} times</h1>
+    <h1>Button clicked {count} times </h1>
     <button onClick={countNum}>Click me</button>
     </div>
   )
